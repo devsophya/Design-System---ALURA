@@ -1,0 +1,14 @@
+
+Nesta aula, aprendemos que um Design System é um produto escalável que serve outros produtos, 
+evoluindo constantemente e sendo atualizado com novas funcionalidades. 
+Ele não é usado diretamente, mas indiretamente, como nos sistemas operacionais que usam Design Systems
+ para padronizar elementos como tipografia, cores e componentes.
+
+Os principais elementos de um Design System são:
+
+    Guia de estilo: Documenta elementos e componentes como tipografia, cores e ícones.
+    Design tokens: Variáveis que definem propriedades e casos de uso específicos para os estilos definidos no guia de estilo.
+    Documentação: Guia de diretrizes que descrevem as melhores formas de se utilizar cada elemento.
+
+As vantagens de usar um Design System incluem a criação de produtos harmonizados, otimização do trabalho das equipes
+ de desenvolvimento e melhoria da experiência do usuário, tornando as funcionalidades mais intuitivas e a navegabilidade mais previsível.
