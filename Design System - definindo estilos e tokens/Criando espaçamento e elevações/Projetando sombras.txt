@@ -1,0 +1,6 @@
+Nesta aula, o foco foi em sombras e elevações em Design Systems, com o objetivo de usar sombras não apenas como estética, mas como hierarquia visual.
+
+Foi discutido como diferentes Design Systems usam o termo "elevação" para sombras, indicando a importância de um elemento na tela.
+A aula usa o Material Design como referência, mostrando como as sombras podem simular a proximidade e importância de elementos, como se estivessem "empilhados" em camadas.
+
+A aula também aborda a criação de uma regra para sombras, utilizando o sistema de grid de 4 ou 8 pontos para definir os valores de Y (posição vertical), opacidade e blur.
