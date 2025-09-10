@@ -1,0 +1,10 @@
+Nesta aula, aprendemos sobre a importância da acessibilidade ao escolher cores para um Design System.
+ Validar a paleta de cores é crucial, pois nem todas as pessoas enxergam as cores da mesma forma, devido a fatores como envelhecimento ou daltonismo.
+
+Ferramentas como o Colour Contrast Checker (https://colourcontrast.cc/) e o ColorShark (https://colorshark.io/) 
+ajudam a verificar o contraste entre as cores de fundo e texto, garantindo que atendam aos padrões de acessibilidade da WCAG. 
+O Colour Contrast Checker informa os níveis de contraste (AA Large, AAA Large, AA Normal, AAA Normal), indicando se a combinação de 
+cores é adequada para diferentes tamanhos de texto. Já o ColorShark oferece simulações de daltonismo, permitindo verificar como diferentes pessoas
+ com daltonismo percebem o contraste.
+
+É importante documentar os valores de contraste de cada cor no painel de variáveis do Figma, para que outros designers saibam quais combinações de cores são acessíveis.
