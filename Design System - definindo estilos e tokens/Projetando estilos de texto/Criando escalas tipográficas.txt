@@ -1,0 +1,16 @@
+Nesta aula, o instrutor aborda a criação de escalas tipográficas harmoniosas para produtos digitais, utilizando o conceito de Escalas Modulares.
+
+Inicialmente, ele destaca a importância de não utilizar tamanhos de texto pré-definidos em ferramentas como Figma, Word ou Google Docs, 
+e introduz o site modularscale.com, que auxilia na criação de escalas tipográficas baseadas em um valor base e uma proporção (ratio).
+
+O valor base é definido como o tamanho do parágrafo, e a proporção é utilizada para multiplicar ou dividir esse valor, 
+gerando as escalas seguintes ou anteriores. O instrutor ressalta que a escolha da proporção ideal depende de validação e testes práticos,
+como a criação de títulos e descrições no Figma para avaliar a harmonia entre os tamanhos.
+
+Além disso, ele apresenta a ferramenta Type Scales no Figma, que funciona de forma semelhante ao site modularscale.com,
+permitindo definir o tamanho base, a escala (como "major second" com 1.125) e a altura da linha. 
+A ferramenta também possibilita escolher quantas escalas acima e abaixo do valor base serão geradas, além de arredondar ou não os valores.
+
+O instrutor demonstra como definir sete escalas para cima, obtendo diferentes tamanhos para títulos, subtítulos e corpos de texto.
+Ele sugere que os tamanhos 16, 14 e 12 podem ser utilizados como tamanhos de corpo, sendo o 14 o tamanho padrão. 
+Por fim, ele explica que basta atualizar os estilos gerados e cadastrá-los no Figma, mas que a nomenclatura será abordada em outro momento.
