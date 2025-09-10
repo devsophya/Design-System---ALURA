@@ -1,0 +1,9 @@
+Nesta aula, aprendemos sobre a importância de criar um inventário de interface como o primeiro passo para desenvolver um Design System eficaz.
+ O inventário envolve a coleta e organização de todos os estilos básicos presentes no protótipo do Figma, como cores, estilos de texto e sombras.
+
+Para mapear as cores, podemos usar a seção "Selection colors" no Figma para obter uma visão geral de todas as cores utilizadas no projeto.
+ Já para os estilos de texto e sombras, o processo é mais manual, exigindo a duplicação e anotação das propriedades de cada elemento no frame de documentação.
+
+Ao final do inventário, é possível organizar os elementos por categorias no FigJam, o que nos permite identificar problemas e inconsistências no design,
+ como tamanhos de fonte muito parecidos ou sombras com valores diferentes sendo usadas nos mesmos lugares. Essas informações serão valiosas para aprimorar
+  o Design System e garantir que ele atenda às necessidades dos produtos que o utilizarão.
