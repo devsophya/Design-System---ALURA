@@ -1,0 +1,12 @@
+O instrutor ensina como organizar e nomear as cores de um Design System de forma clara e intuitiva.
+
+Principais pontos:
+
+    -Nomenclatura da paleta: Em vez de usar nomes de cores genéricos (como "Electric Violet"), utilize nomes que indiquem o propósito da cor (como "brand" para a cor da marca). 
+        Priorize o inglês para facilitar a codificação.
+    -Nomenclatura das tonalidades: Utilize uma escala numérica (100 a 900) inspirada na espessura das fontes do Google Fonts,
+         onde 100 é a tonalidade mais clara e 900 a mais escura.
+    -Evitar hexadecimais: Nomear os estilos de cor evita o uso de códigos hexadecimais, tornando o sistema mais fácil de usar e entender. 
+        Em vez de "use o hexadecimal 6C37ED", use "use o brand 400".
+
+O objetivo é criar um sistema de cores organizado e fácil de usar, que facilite a comunicação e a implementação do Design System.
