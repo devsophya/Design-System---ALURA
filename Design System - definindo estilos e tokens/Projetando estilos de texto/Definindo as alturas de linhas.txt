@@ -1,0 +1,18 @@
+Nesta aula, o foco foi a importância da altura de linha para a legibilidade do texto e como defini-la de forma eficaz em um Design System.
+
+Principais pontos abordados:
+
+-Legibilidade e Espaçamento: 
+    A altura de linha afeta a legibilidade. Espaçamentos excessivos ou muito pequenos podem prejudicar a leitura.
+
+-Escalas Modulares:
+    A aula menciona o uso de escalas modulares para definir a altura da linha, aproveitando valores já estabelecidos.
+
+-WCAG:
+    A recomendação da WCAG de usar altura de linha de 1.5 como padrão para parágrafos, buscando otimizar a leitura.
+
+-Múltiplos valores:
+    A sugestão de usar valores distintos para títulos e corpo do texto, reconhecendo que tamanhos maiores podem exigir ajustes para evitar espaçamentos exagerados.
+
+-Nomenclatura:
+    No Figma, a altura de linha pode ser salva nos estilos de texto, como nos exemplos de "Display", "Title", "Headline", "Subtitle" e "Body".
