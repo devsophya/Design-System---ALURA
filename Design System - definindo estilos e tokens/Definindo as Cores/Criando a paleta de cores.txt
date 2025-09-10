@@ -1,0 +1,13 @@
+Nesta aula, o foco é a construção do Design System, começando pelas cores. 
+O instrutor demonstra como identificar e coletar cores relevantes no "Inventário de Interfaces" no Figma,
+ priorizando aquelas que têm uma função clara e trazem feedback ao usuário.
+
+É explicado que a cor principal, geralmente a cor da marca, deve estar presente na paleta do Design System.
+ Além disso, cores como vermelho (perigo), verde (sucesso), azul (informação) e laranja (aviso/cautela) 
+ são importantes para comunicar diferentes tipos de feedback ao usuário.
+
+O instrutor ensina a criar tonalidades para cada cor, mostrando como gerar uma paleta de cores mais completa e versátil.
+ Ele apresenta o site UIColors.app e o plugin "Tailwind CSS Color Generator" no Figma como ferramentas úteis para gerar tonalidades automaticamente.
+
+Por fim, ele explica a importância de ter cautela com o número de tonalidades, 
+recomendando manter seis tonalidades (três mais claras e três mais escuras) para um Design System mais conciso e eficiente. 
