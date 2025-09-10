@@ -1,0 +1,10 @@
+Nesta aula, o instrutor ensina sobre como dar nomes para os estilos de texto em um Design System. 
+Ele explica que uma opção é nomear os estilos com base em sua função, como "Display" para elementos de destaque, "Title" para títulos e "Headline" para headlines. 
+No entanto, ele sugere que essa abordagem pode ser limitante, pois pode impedir o uso de um determinado estilo de texto em outros contextos.
+
+Uma alternativa é usar um sistema de nomenclatura baseado nos tamanhos de roupas americanos, como "large", "medium", "small", "extra small" e "extra large".
+ Essa abordagem é mais flexível e permite que os estilos de texto sejam usados em uma variedade de contextos.
+
+O instrutor demonstra como aplicar essa nomenclatura aos estilos de texto no Figma. 
+Ele agrupa os estilos de cabeçalho (heading) e corpo de texto (body) e os nomeia usando os tamanhos "xl", "lg", "md", "sm" e "xs". 
+Ele também mostra como adicionar descrições aos estilos de texto para indicar como eles devem ser usados.
