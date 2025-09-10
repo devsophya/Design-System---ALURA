@@ -1,0 +1,22 @@
+Nesta aula, o foco é a criação de um sistema de espaçamento consistente e harmônico dentro de um Design System, utilizando o conceito do 8-Point Grid
+ (ou, opcionalmente, o 4-Point Grid).
+
+Principais pontos abordados:
+
+1.Importância do Espaçamento:
+    O espaçamento é um elemento crucial, embora nem sempre visualmente óbvio, que contribui para o "respiro" e a organização da interface.
+    Espaçamentos aleatórios podem comprometer a harmonia e a usabilidade.
+
+2.8-Point Grid:
+    A ideia central é utilizar espaçamentos que sejam múltiplos de 8 (8, 16, 24, 32 pixels, etc.).
+    Justificativa: As resoluções de tela mais comuns são divisíveis por 8, o que facilita a criação de layouts equilibrados.
+    Variação: É possível utilizar o 4-Point Grid como alternativa (múltiplos de 4).
+
+3.Implementação no Figma:
+    Criação de uma "Collection" chamada "Spacing" nas "Local variables".
+    Definição de variáveis numéricas para representar os espaçamentos, utilizando uma nomenclatura como xs (4px), sm (8px), md (12px), lg (16px), xl (20px), etc.
+    A variável none (0) também é importante para casos onde não se deseja espaçamento.
+
+4.Considerações Finais:
+    A utilização do 8-Point Grid (ou 4-Point Grid) é uma prática comum em diversos Design Systems devido à sua funcionalidade.
+    É interessante adaptar a largura das telas para que sejam divisíveis por 8, mas isso pode ser feito em um momento posterior.
