@@ -1,0 +1,10 @@
+Nesta aula, aprendemos a criar componentes de botões secundários em um Design System, com base nos componentes primários já existentes.
+
+O processo envolve:
+
+- Duplicar os componentes de botões primários existentes.
+- Alterar as cores dos botões secundários para tons de cinza, ajustando as cores para os estados de hover, pressed, focused e disabled.
+- Ajustar a cor do texto e dos ícones para garantir a legibilidade nos botões secundários.
+- Definir os estados (status) dos botões secundários (hovered, pressed, focused, disabled).
+- Criar uma variante de "Tipo" para diferenciar os botões primários dos secundários.
+- Verificar a prototipação dos botões secundários, garantindo que as microinterações sejam mantidas.

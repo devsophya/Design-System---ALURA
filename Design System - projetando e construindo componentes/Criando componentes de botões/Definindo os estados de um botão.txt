@@ -1,0 +1,11 @@
+Nesta aula, aprendemos a criar estados de interação para componentes de botão em um Design System no Figma.
+
+Começamos adicionando estados como "hover", "pressed" e "focused" para comunicar visualmente a interação com o usuário.
+Alteramos a cor do botão para indicar esses estados e adicionamos um "stroke" (linha) para o estado "focused".
+
+Em seguida, prototipamos esses estados no Figma, definindo as transições entre eles usando a opção "Prototype".
+Configuramos interações como "wire hover" e "enquanto pressiona" para criar microinterações.
+
+Por fim, adicionamos uma variante "disabled" para indicar quando o botão não está funcional, diminuindo a opacidade da camada para 20%.
+
+Com isso, criamos um componente de botão com diversas variações de estado, tudo dentro do mesmo componente.
