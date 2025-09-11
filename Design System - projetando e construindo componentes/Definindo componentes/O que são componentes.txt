@@ -1,0 +1,9 @@
+Nesta aula, aprendemos o que são componentes dentro de um Design System, utilizando a analogia de um relógio de bolso para facilitar a compreensão.
+
+Componentes são elementos com necessidades de interação específicas, criados para atender às demandas do usuário.
+
+Exemplos de componentes incluem campos de texto, checkboxes e botões, cada um desempenhando um papel crucial na experiência do usuário em sistemas digitais.
+
+Como designers de produto, devemos identificar e projetar esses componentes para garantir eficácia, acessibilidade e alinhamento com a identidade da marca.
+
+Embora existam muitos componentes, novos podem surgir com o tempo, e é importante pesquisar e referenciar outros Design Systems para aprimorar a construção de componentes.
