@@ -1,0 +1,26 @@
+Nesta aula, o instrutor ensina como transformar um elemento de botão em um componente reutilizável no Figma. Ele demonstra como criar um componente
+a partir de um elemento existente, como adicionar variáveis de texto e ícone, e como controlar a visibilidade do ícone através de uma propriedade booleana.
+
+Aqui estão os pontos principais abordados na aula:
+
+Criação de Componente:
+    - Transformar um elemento de botão em um componente no Figma usando o botão "Create Component" ou o atalho "Ctrl + Alt + K".
+    - Ao criar uma instância do componente (matriz), as alterações feitas na matriz original são refletidas nas instâncias.
+
+Variáveis de Texto:
+    - Adicionar uma variável de texto ao componente para permitir a alteração do texto do botão diretamente nas propriedades do componente.
+    - Isso facilita a edição do texto em várias instâncias do componente sem precisar acessar cada uma individualmente.
+
+Variáveis de Ícone:
+    - Incluir ícones no componente do botão, copiando ícones de um arquivo de design system.
+    - Ajustar o tamanho e a cor do ícone para que ele se integre bem ao design do botão.
+    - Criar uma propriedade booleana para controlar a visibilidade do ícone no botão.
+
+Propriedade de Visualização:
+    - Adicionar uma propriedade de visualização (booleana) para o ícone, permitindo mostrar ou ocultar o ícone conforme necessário.
+    - Isso é feito acessando a camada do ícone e criando uma propriedade de componente que controla a visibilidade.
+
+Considerações Finais:
+    - Ajustar o tamanho do botão para garantir que o texto permaneça centralizado.
+    - Mencionar a importância de criar matrizes de componente dentro do próprio botão para facilitar a reutilização e manutenção.
+    - Introduzir a ideia de estados de componentes (como o estado de hover) que serão discutidos em vídeos futuros.
