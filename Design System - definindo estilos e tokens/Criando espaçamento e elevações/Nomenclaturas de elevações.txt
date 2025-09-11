@@ -1,0 +1,14 @@
+Nesta aula, o foco foi a definição de nomes para os estilos de sombra (elevações) em um Design System.
+
+Inicialmente, foi discutida a importância de regras claras para as sombras, evitando aleatoriedade.
+Foram criadas duas definições de sombra: uma leve para elementos básicos e outra mais espessa para indicar foco.
+
+Para nomear esses estilos, foi sugerido o uso de inteligência artificial, como o ChatGPT, para gerar opções de nomes com base nos casos de uso.
+As sugestões iniciais foram "sombra de destaque" e "sombra de aprofundamento", mas optou-se pelas versões em inglês: "highlight" 
+para a sombra mais leve e "depth" para a mais espessa.
+
+Em seguida, foi apresentado o Design System da Atlassian como exemplo, que utiliza nomenclaturas como "overlay", "raised", 
+"default" e "sunken" para descrever os casos de uso da elevação.
+
+Por fim, foi demonstrado como cadastrar as elevações no Figma, nomeando-as como "highlight" e "depth" no painel "Design", seção "Effect".
+Foi reforçado que o Design System deve ser construído de forma incremental, focando no essencial para o momento e expandindo conforme necessário.
