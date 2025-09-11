@@ -1,0 +1,9 @@
+Nesta aula, aprendemos a importância de mapear os componentes necessários para o desenvolvimento de um Design System.
+O processo envolve identificar os componentes nas telas do aplicativo, utilizando ferramentas como o FigJam para criar tags
+ e listas que servem como base para o desenvolvimento.
+
+Foi explicado como identificar e categorizar componentes como botões, inputs de texto, checkboxes e cards, além de suas variações.
+A aula também abordou a criação de uma lista de necessidades, que organiza os componentes a serem desenvolvidos, e uma biblioteca de
+ componentes no FigJam para acompanhar o progresso do desenvolvimento.
+
+O objetivo final é ter uma visão clara dos componentes necessários para o Design System, facilitando o desenvolvimento e a organização do projeto.
