@@ -1,0 +1,12 @@
+Design tokens são todas as propriedades de uma interface.
+
+Nesta aula, o instrutor explica o conceito de Design Tokens, que são as propriedades de uma interface, como cor,
+tamanho de texto, espaçamento, tipografia, etc.
+
+Os Design Tokens funcionam como variáveis que armazenam informações de elementos em uma interface digital.
+O exemplo usado é o de um botão, que possui diversas propriedades (cor de fundo, espaçamento, tipografia, tamanho da fonte, etc.), cada uma delas sendo um token.
+
+Foi explicado também sobre a importância de definir nomes específicos para os tokens, como no exemplo do "blue-900"
+que foi afunilado para "accent-color-900" e, posteriormente, para "accent-background-color-default" no design system da Adobe (Spectrum).
+
+O objetivo é descrever ao máximo o caso de uso do token, facilitando a aplicação e manutenção do design system.
