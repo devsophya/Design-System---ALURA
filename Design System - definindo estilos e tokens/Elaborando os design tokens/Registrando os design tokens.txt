@@ -1,0 +1,10 @@
+Nesta aula, o foco é a criação e organização de design tokens de forma estruturada e eficiente.
+Foi apresentado uma planilha chamada "Gerador de Nome de Design Tokens", que auxilia na definição de nomes para os tokens,
+concatenando informações de forma lógica e hierárquica.
+
+Foi demonstrado como essa planilha pode ser utilizada para documentar os tokens, servindo como um centro de referência tanto para
+ designers quanto para desenvolvedores. A aula explica cada coluna da planilha, desde o namespace (nome do design system) até a escala
+  (variação do elemento), mostrando como preencher e como a nomenclatura final do token é gerada.
+
+Além disso, foi abordada a importância de categorizar e agrupar os tokens por tipo e propriedade, como cores de feedback 
+(warning, danger, success, info), e como isso facilita a organização e a manutenção do design system.
