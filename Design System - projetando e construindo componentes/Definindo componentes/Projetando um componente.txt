@@ -1,0 +1,11 @@
+Nessa aula, o instrutor ensina como projetar um componente básico de botão utilizando o Figma, seguindo os princípios de um Design System.
+
+Primeiro, ele cria uma página chamada "Componentes" no Figma para organizar os elementos do Design System.
+Em seguida, ele demonstra como criar o botão, começando pelo fundo retangular, utilizando os tokens de cor definidos no sistema.
+
+Depois, ele adiciona o texto ao botão, também utilizando tokens para garantir a padronização da tipografia e cor.
+Ele explica a importância de usar tokens em vez de selecionar cores e tamanhos aleatórios, para facilitar a manutenção e garantir a consistência do Design System.
+
+Por fim, ele agrupa os elementos do botão em um auto layout e define os espaçamentos utilizando tokens de tamanho.
+Ele ressalta que o botão servirá como base para o desenvolvimento de outros componentes do sistema, e que a lógica de construção envolve
+ a combinação de tokens de cor, tipografia e espaçamento para criar componentes padronizados e consistentes.
