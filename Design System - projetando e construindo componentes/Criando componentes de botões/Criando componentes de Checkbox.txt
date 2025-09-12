@@ -1,0 +1,10 @@
+Nesta aula, o foco é a criação de componentes de botões, especificamente explorando a construção de uma checkbox para um design system.
+O processo envolve desde a duplicação e adaptação de componentes existentes até a criação de variações de estado (ativo e desativado) e a prototipação de interações.
+
+Os principais pontos abordados são:
+
+Adaptação de Componentes Existentes: A aula começa com a duplicação de um componente de checkbox existente e sua adaptação para um novo design, incluindo a adição de um ícone.
+Criação de Variações de Estado: São criadas variações para representar os estados "ativo" e "desativado" da checkbox, permitindo que ela seja ligada e desligada visualmente.
+Prototipação de Interações: A aula detalha como prototipar as interações da checkbox, incluindo a definição de delays e animações para tornar a transição entre os
+estados mais dinâmica e agradável.
+Integração no Design System: O componente de checkbox finalizado é integrado ao design system, demonstrando como ele pode ser reutilizado em diferentes contextos.
