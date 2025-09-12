@@ -1,0 +1,11 @@
+Nesta aula, o foco foi a criação de variantes para o componente de input de texto dentro de um Design System.
+
+Primeiramente, foram definidos os estados principais do input: "Default", "Hover" (quando o mouse está sobre o elemento), "Focused" (quando o elemento está ativo/clicado)
+ e "Error" (indicando um erro de preenchimento). Para cada estado, foram ajustadas cores e bordas para fornecer feedback visual ao usuário.
+
+Além disso, foi criada uma variante para o estado "Disabled" (desativado), alterando a cor de fundo, ícones e placeholder para indicar que o campo não está disponível para interação.
+
+Em seguida, foi explorada a criação de uma variante para alternar entre "Placeholder" e "Texto", permitindo que o componente exibisse tanto um texto de exemplo
+quanto o texto digitado pelo usuário.
+
+Por fim, foi criada uma área de trabalho exclusiva para o componente de input de texto, organizando-o e facilitando sua localização e utilização no Design System.
