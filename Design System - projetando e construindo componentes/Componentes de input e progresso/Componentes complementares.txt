@@ -1,0 +1,16 @@
+Nesta aula, o foco é a criação de um componente de input de texto para um design system, abordando desde a sua base até a adição de propriedades e variáveis.
+
+Inicialmente, o instrutor explora as possíveis variáveis do componente, como a inclusão de um label, um indicador de campo obrigatório (asterisco) e a
+opção de exibir a senha com asteriscos e um ícone de "olho".
+
+Em seguida, ele demonstra a criação da base do componente, adicionando um placeholder, ícones e aplicando auto layout para garantir o alinhamento e espaçamento corretos.
+
+O instrutor explica como definir parâmetros para o componente, como o espaçamento horizontal e vertical, e como garantir que os elementos internos se ajustem corretamente à largura do input.
+
+Além disso, ele aborda a criação do topo (label) e da base (hint) do componente, adicionando um asterisco para indicar campos obrigatórios e aplicando auto layout
+para garantir o espaçamento adequado entre os elementos.
+
+Por fim, o instrutor ensina como transformar o conjunto de elementos em um componente no Figma, adicionando propriedades como "Placeholder - Escrita",
+"Label - Escrita", "Hint - Escrita", "Ícone Direito", "Ícone Esquerdo", "Label", "Obrigatório" e "Hint" para permitir a personalização do componente em diferentes contextos.
+
+O objetivo é criar um componente escalonável que atenda a diversas necessidades do sistema, evitando a criação de componentes específicos para cada peculiaridade.
