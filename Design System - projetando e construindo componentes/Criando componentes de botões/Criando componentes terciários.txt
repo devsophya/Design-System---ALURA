@@ -1,0 +1,9 @@
+Nesta aula, o instrutor ensina como criar uma variante terciária (Ghost) para botões em um Design System no Figma.
+
+Principais pontos:
+
+Duplicação e Renomeação: A variante terciária é criada duplicando os botões existentes (primário e secundário) e renomeando-a para "Ghost".
+Fundo Transparente: Para criar o efeito "fantasma", o fundo do botão é removido, definindo a opacidade da cor de fundo para 0.
+Importância da Área Clicável: Mesmo com o fundo transparente, é crucial manter uma área delimitadora clicável para permitir a interação do usuário.
+Status de Hover: Embora não seja obrigatório, um estado de hover pode ser adicionado para melhorar a experiência do usuário.
+Organização: O instrutor demonstra como organizar os componentes em uma área de trabalho designada para facilitar a visualização e o gerenciamento dentro do sistema.
