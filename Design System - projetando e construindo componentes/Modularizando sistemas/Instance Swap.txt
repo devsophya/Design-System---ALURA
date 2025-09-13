@@ -1,0 +1,27 @@
+Nesta aula, o instrutor Bruno Pavei ensina sobre o conceito de Instance Swap no Figma e como ele pode ser utilizado para modularizar e escalar Design Systems,
+especialmente na criação de componentes complexos como Cards.
+
+Aqui estão os pontos principais abordados:
+
+O que é Instance Swap:
+    É uma propriedade do Figma que permite trocar um componente por outro dentro de uma instância, mantendo a mesma orientação e estrutura.
+
+Reprojetando Componentes:
+    Em vez de criar um componente único com todas as variações possíveis, é melhor criar componentes menores e modulares para cada elemento (imagem, texto, barra de progresso, etc.).
+
+Criando um Frame para as Partes do Card:
+    Organize os componentes modulares dentro de um frame específico ("Partes do Card") para facilitar a seleção e troca de instâncias.
+
+Adicionando a Propriedade de Instance Swap:
+    Ao criar um componente, adicione uma propriedade de Instance Swap para permitir a troca de componentes dentro dele.
+
+Exemplo Prático:
+    Demonstração de como trocar a imagem de um Card por uma barra de progresso ou por um componente mais complexo (imagem com texto e ícone).
+
+Escalabilidade:
+    O Instance Swap permite adicionar novas funcionalidades e componentes ao Design System de forma escalonável, sem precisar refazer os componentes existentes.
+
+Flexibilidade:
+    É possível criar variantes de componentes com ou sem determinados elementos (por exemplo, um Card com ou sem botão).
+
+Em resumo, o Instance Swap é uma ferramenta poderosa para criar Design Systems flexíveis e escaláveis, permitindo a modularização de componentes e a fácil adaptação a novas necessidades e funcionalidades.
