@@ -1,0 +1,5 @@
+Nesta aula, o foco foi a criação de componentes secundários, especificamente barras de progresso, utilizando o Figma.
+
+Primeiramente, foi demonstrado como criar uma barra de progresso simples, definindo cores, bordas e diferentes estados (0%, 25%, 50%, 75% e 100%).
+
+Em seguida, foi ensinado como prototipar uma animação para a barra de progresso, simulando o preenchimento gradual ao clicar, utilizando o recurso de "Smart animate" do Figma.
