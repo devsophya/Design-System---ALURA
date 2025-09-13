@@ -1,0 +1,10 @@
+Nesta aula, o instrutor ensina como modularizar sistemas de design, focando na estruturação dos elementos de um card.
+
+Inicialmente, ele demonstra como decompor cards existentes para identificar seus componentes reutilizáveis, como barras de progresso, textos e botões.
+Em seguida, ele mostra como criar esses componentes individualmente, aplicando tokens de design para garantir consistência e flexibilidade.
+
+O instrutor também aborda o uso de Auto Layout no Figma para criar layouts responsivos e adaptáveis.
+Além disso, ele explica como transformar os elementos estruturados em componentes e variantes, facilitando o reuso e a manutenção do design system.
+
+Ao final da aula, o instrutor demonstra como criar variações de componentes, como um card com apenas um ícone e um título, preparando o
+terreno para a criação de interações futuras e componentes mais complexos.

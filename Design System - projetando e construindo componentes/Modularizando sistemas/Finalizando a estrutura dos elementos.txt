@@ -1,0 +1,9 @@
+Nesta aula, aprendemso como modularizar sistemas dentro do Design System, transformando elementos visuais em componentes reutilizáveis.
+
+Inicialmente, ele demonstra a criação de um modelo padrão para cartões, começando pela barra de progresso e ajustando textos e ícones para manter a consistência visual.
+Ele explica como agrupar elementos com Auto Layout para criar espaçamentos adequados e como transformar esses grupos em componentes.
+
+Além disso, Bruno mostra como adicionar imagens aos cartões de forma simples, utilizando um padrão xadrez como placeholder e permitindo a escolha de imagens personalizadas.
+
+Ao final, ele resume os componentes finalizados e antecipa o próximo vídeo, onde ensinará a configurar esses componentes como "instance swap" e a projetar degradês de sombra,
+além de criar novos cartões que podem ser integrados ao Design System.
