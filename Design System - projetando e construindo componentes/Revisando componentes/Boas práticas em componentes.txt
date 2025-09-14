@@ -1,0 +1,10 @@
+Nesta aula, revisamos as boas práticas na construção de componentes de um Design System.
+
+Começamos com a importância da consistência visual e de comportamento entre os componentes, utilizando padrões como tokens de cor e formas para facilitar o aprendizado e a acessibilidade.
+
+Em seguida, abordamos a acessibilidade e responsividade, destacando a necessidade de testar os componentes em situações reais para garantir sua eficácia em diferentes interfaces e dispositivos.
+
+Também discutimos a manutenção em módulos, que permite alterar componentes individualmente sem afetar o restante do sistema, e a importância de testes e feedback contínuos para identificar
+áreas de melhoria.
+
+Por fim, ressaltamos que o Design System é um projeto em constante evolução, que deve ser adaptado às novas necessidades e demandas, tanto técnicas quanto criativas.
