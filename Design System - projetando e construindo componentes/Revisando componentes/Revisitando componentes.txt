@@ -1,0 +1,11 @@
+Nesta aula, revisamos os componentes que desenvolvemos para o Design System ao longo do curso, comparando-os com o mapeamento inicial de necessidades.
+Foi destacado que o Design System é uma evolução constante, permitindo melhorias nas interfaces e componentes.
+
+Foi utilizada uma simulação da página de boas-vindas para demonstrar a consistência visual alcançada com os componentes do Design System, como bordas arredondadas e uma presença visual mais forte.
+A aula também abordou a importância de sugerir melhorias nas interfaces, como a transformação de um botão em um link para criar um melhor espaço visual.
+
+Além disso, foi mostrado como os Tokens (Brand 400) serviram como base para a padronização de cores e tipografias, enquanto os componentes padronizam e criam uma identidade para as interfaces.
+Componentes como Toggle e Avatar foram apresentados como exemplos de desafios desenvolvidos e prototipados.
+
+Por fim, a aula ressaltou a importância de aplicar e visualizar os componentes nas interfaces do aplicativo, bem como realizar o hand-off desses componentes,
+catalogando o que foi desenvolvido para o time de desenvolvimento.
