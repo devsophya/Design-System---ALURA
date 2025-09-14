@@ -1,0 +1,11 @@
+Nesta aula, o instrutor ensina a projetar e construir um card modularizado em um Design System.
+
+Primeiro, ele cria um instance swap para permitir a troca de elementos do card por outros componentes já desenvolvidos.
+Em seguida, ele demonstra como adicionar uma propriedade de instance swap a um componente, permitindo que a instância seja trocada por outros componentes,
+como imagens, textos ou barras de progresso.
+
+O instrutor também mostra como agrupar elementos e aplicar auto layout para organizar as informações do card, além de adicionar bordas arredondadas e tokens
+ de profundidade para criar um efeito de sombra.
+
+Por fim, ele ensina a criar variantes do card para diferentes tipos de conteúdo, como informações, barras de progresso de orçamento e notificações.
+Ele destaca a importância da modularização para evitar retrabalho e garantir a consistência do Design System.
